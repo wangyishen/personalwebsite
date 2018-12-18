@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Power System Economics",
+    "Energy Storage",
     "PMU Data Analytics",
     "Optimization"
   ]

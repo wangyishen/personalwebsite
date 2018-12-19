@@ -31,7 +31,7 @@ weight = 5
 [[education.courses]]
   course = "BEng in Electrical Engineering"
   institution = "Tsinghua University"
-  year = 20011
+  year = 2011
  
 +++
 

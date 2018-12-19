@@ -65,10 +65,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "yishen.wang@geirina.net"
   address = "250 W Tasman Dr Ste 100, San Jose, California, 95134, USA"
-  office_hours = """ """
-  #Monday 10:00 to 13:00\\
-  #Wednesday 09:00 to 10:00\\
-  #Otherwise email to book an appointment
+  office_hours = ""
   
   phone = ""
   skype = ""

@@ -13,6 +13,7 @@ weight = 5
     "Power System Economics",
     "Energy Storage",
     "PMU Data Analytics",
+    "Load Modeling",
     "Optimization"
   ]
 

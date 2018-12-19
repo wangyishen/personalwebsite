@@ -24,19 +24,13 @@ weight = 7
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "Power Systems"
+  name = "R"
   description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Machine Learning"
-  description = ""  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Optimization"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = ""
 
 +++

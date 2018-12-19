@@ -26,7 +26,7 @@ date_format = "January 2006"
   location = "San Jose, CA, USA"
   date_start = "2018-06-26"
   date_end = ""
-  description = """Working with Dr. Di Shi and Dr. Ruisheng Diao on load modeling"""
+  description = """Working with Dr. Di Shi and Dr. Ruisheng Diao on load modeling and energy storage"""
 
 [[experience]]
   title = "Postdoctoral Researcher"

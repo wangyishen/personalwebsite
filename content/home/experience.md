@@ -26,7 +26,7 @@ date_format = "January 2006"
   location = "San Jose, CA, USA"
   date_start = "2018-06-26"
   date_end = ""
-  description = """PMU & System Analytics Group"""
+  description = """PMU & System Analytics Group with Dr. Di Shi"""
 
 [[experience]]
   title = "Postdoctoral Researcher"
@@ -35,7 +35,7 @@ date_format = "January 2006"
   location = "San Jose, CA, USA"
   date_start = "2017-06-26"
   date_end = "2018-06-25"
-  description = """PMU & System Analytics Group"""
+  description = """PMU & System Analytics Group with Dr. Di Shi"""
 
 [[experience]]
   title = "Research Aide"
@@ -44,7 +44,7 @@ date_format = "January 2006"
   location = "Lemont, IL, USA"
   date_start = "2015-06-01"
   date_end = "2015-09-30"
-  description = """Energy Systems Division"""
+  description = """Energy Systems Division with Dr. Audun Botterud and Dr. Zhi Zhou"""
 
 [[experience]]
   title = "Research Internship"
@@ -53,15 +53,15 @@ date_format = "January 2006"
   location = "Cambridge, MA, USA"
   date_start = "2014-06-01"
   date_end = "2014-09-30"
-  description = """Data Analytics Group"""
+  description = """Data Analytics Group with Dr. Hongbo Sun"""
 
 [[experience]]
   title = "Research Assistant"
-  company = "University of Washington"
+  company = "Department of Electrical Engineering, University of Washington"
   company_url = "http://labs.ece.uw.edu/real/"
   location = "Seattle, WA, USA"
   date_start = "2011-09-16"
   date_end = "2017-06-15"
-  description = """REAL Lab, Department of Electrical Engineering"""
+  description = """REAL Lab with Prof. Daniel Kirschen"""
 
 +++

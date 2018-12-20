@@ -19,8 +19,8 @@ authors = ["Yi Wang", "Qixin Chen", "Ning Zhang", "__**Yishen Wang**__"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE *Transactions on Power Systems*, vol. 33, no. 6, pp. 7327-7330, Nov. 2018."
-publication_short = "*IEEE Transactions on Power Systems*, 2018."
+publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 6, pp. 7327-7330, Nov. 2018."
+publication_short = "*IEEE Transactions on Power Systems*,_2018."
 
 # Abstract and optional shortened version.
 abstract = ""

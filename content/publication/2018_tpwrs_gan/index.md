@@ -5,7 +5,7 @@ date = 2018-01-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Yize Chen", "Yishen Wang", "Daniel Kirschen", "Baosen Zhang"]
+authors = ["Yize Chen", "__**Yishen Wang**__", "Daniel Kirschen", "Baosen Zhang"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["Yize Chen", "Yishen Wang", "Daniel Kirschen", "Baosen Zhang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Power Systems, vol. 33, no. 3, pp. 3265-3275, May 2018."
-publication_short = "IEEE Transactions on Power Systems, vol. 33, no. 3, pp. 3265-3275, May 2018."
+publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 3, pp. 3265-3275, May 2018."
+publication_short = "*IEEE Transactions on Power Systems*"
 
 # Abstract and optional shortened version.
 abstract = ""

@@ -62,6 +62,6 @@ date_format = "January 2006"
   location = "Seattle, WA, USA"
   date_start = "2011-09-16"
   date_end = "2017-06-15"
-  description = """Worked with Prof. Daniel Kirschen on renewable integration, unit commitment, energy storage and electricity markets"""
+  description = """Worked with Prof. Daniel Kirschen on renewable integration, stochastic unit commitment, scenario generation and reduction, wind forecasting, energy storage and electricity markets"""
 
 +++

@@ -6,7 +6,7 @@ date = 2018-04-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Chenghui Tang", "Yishen Wang", "Jian Xu", "Yuanzhang Sun", "Baosen Zhang"]
+authors = ["Chenghui Tang", "__**Yishen Wang**__", "Jian Xu", "Yuanzhang Sun", "Baosen Zhang"]
 
 # Publication type.
 # Legend:
@@ -20,8 +20,8 @@ authors = ["Chenghui Tang", "Yishen Wang", "Jian Xu", "Yuanzhang Sun", "Baosen Z
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Applied Energy, vol. 221, no. 6, pp. 348 - 357, July 2018."
-publication_short = "Applied Energy, vol. 221, no. 6, pp. 348 - 357, July 2018."
+publication = "*Applied Energy*, vol. 221, no. 6, pp. 348 - 357, July 2018."
+publication_short = "*APEN*"
 
 # Abstract and optional shortened version.
 abstract = ""

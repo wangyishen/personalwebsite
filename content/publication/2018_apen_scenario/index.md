@@ -2,7 +2,7 @@
 +++
 
 title = "Efficient scenario generation of multiple renewable power plants considering spatial and temporal correlations"
-date = 2018-04-17T00:00:00
+date = 2018-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].

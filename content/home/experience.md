@@ -44,7 +44,7 @@ date_format = "January 2006"
   location = "Lemont, IL, USA"
   date_start = "2015-06-01"
   date_end = "2015-09-30"
-  description = """Worked with Dr. Audun Botterud and Dr. Zhi Zhou on stochastic unit commitment and renewable integration"""
+  description = """Working with Dr. Audun Botterud and Dr. Zhi Zhou on stochastic unit commitment and renewable integration"""
 
 [[experience]]
   title = "Research Internship"
@@ -53,7 +53,7 @@ date_format = "January 2006"
   location = "Cambridge, MA, USA"
   date_start = "2014-06-01"
   date_end = "2014-09-30"
-  description = """Worked with Dr. Hongbo Sun on distribution system reconfiguration with energy storage"""
+  description = """Working with Dr. Hongbo Sun on distribution system reconfiguration with energy storage"""
 
 [[experience]]
   title = "Research Assistant"
@@ -62,6 +62,6 @@ date_format = "January 2006"
   location = "Seattle, WA, USA"
   date_start = "2011-09-16"
   date_end = "2017-06-15"
-  description = """Worked with Prof. Daniel Kirschen on renewable integration, stochastic unit commitment, scenario generation and reduction, wind forecasting, energy storage and electricity markets"""
+  description = """Working with Prof. Daniel Kirschen on renewable integration, stochastic unit commitment, scenario generation and reduction, wind forecasting, energy storage and electricity markets"""
 
 +++

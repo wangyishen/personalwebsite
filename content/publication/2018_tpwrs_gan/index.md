@@ -1,7 +1,7 @@
 +++
 
 title = "Model-Free Renewable Scenario Generation Using Generative Adversarial Networks"
-date = 2018-01-17T00:00:00
+date = 2018-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].

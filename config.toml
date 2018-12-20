@@ -266,6 +266,11 @@ enableGitInfo = false
   #  icon = "twitter"
   #  icon_pack = "fab"
   #  link = "https://twitter.com/GeorgeCushen"
+  
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/yishen-wang-459a3426/"
 
   [[params.social]]
     icon = "google-scholar"

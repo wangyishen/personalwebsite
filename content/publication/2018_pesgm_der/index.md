@@ -6,7 +6,7 @@ date = 2018-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Yishen Wang", "Zhehan Yi", "Di Shi", "Zhe Yu", "Bibin Huang", "Zhiwei Wang"]
+authors = ["__**Yishen Wang**__", "Zhehan Yi", "Di Shi", "Zhe Yu", "Bibin Huang", "Zhiwei Wang"]
 
 # Publication type.
 # Legend:
@@ -20,8 +20,8 @@ authors = ["Yishen Wang", "Zhehan Yi", "Di Shi", "Zhe Yu", "Bibin Huang", "Zhiwe
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE PES General Meeting, Portland, OR, August 2018."
-publication_short = ""
+publication = "*IEEE PES General Meeting*, Portland, OR, August 2018."
+publication_short = "*PESGM*"
 
 # Abstract and optional shortened version.
 abstract = ""

@@ -5,7 +5,7 @@ date = 2018-08-31T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Yi Wang", "Qixin Chen", "Ning Zhang", "__**Yishen Wang**__"]
+authors = ["Y Wang", "Q Chen", "N Zhang", "__**Y Wang**__"]
 
 # Publication type.
 # Legend:
@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 6, pp. 7327-7330, Nov. 2018."
-publication_short = "In *IEEE Trans. Power Syst.*"
+publication_short = "In *TPWRS*"
 
 # Abstract and optional shortened version.
 abstract = ""

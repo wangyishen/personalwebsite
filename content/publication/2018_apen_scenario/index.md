@@ -1,12 +1,12 @@
 
 +++
 
-title = "Conditional Residual Modeling for Probabilistic Load Forecasting11"
-date = 2018-08-31T00:00:00
+title = "Efficient scenario generation of multiple renewable power plants considering spatial and temporal correlations"
+date = 2018-04-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Yi Wang", "Qixin Chen", "Ning Zhang", "Yishen Wang"]
+authors = ["Chenghui Tang", "Yishen Wang", "Jian Xu", "Yuanzhang Sun", "Baosen Zhang]
 
 # Publication type.
 # Legend:
@@ -20,8 +20,8 @@ authors = ["Yi Wang", "Qixin Chen", "Ning Zhang", "Yishen Wang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Power Systems, vol. 33, no. 6, pp. 7327-7330, Nov. 2018."
-publication_short = "IEEE Transactions on Power Systems, vol. 33, no. 6, pp. 7327-7330, Nov. 2018."
+publication = "Applied Energy, vol. 221, no. 6, pp. 348 - 357, July 2018."
+publication_short = "Applied Energy, vol. 221, no. 6, pp. 348 - 357, July 2018."
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -51,7 +51,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/8453025"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0306261918304203"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""

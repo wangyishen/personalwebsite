@@ -2,7 +2,7 @@
 
 title = "Conditional Residual Modeling for Probabilistic Load Forecasting"
 
-date = 2012-08-01T00:00:00
+date = 2018-08-31T00:00:00
 
 draft = false
 
@@ -38,7 +38,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 
-publication = "IEEE Transactions on Power Systems"
+publication = "IEEE Transactions on Power Systems, vol. 33, no. 6, pp. 7327-7330, Nov. 2018."
 
 publication_short = ""
 

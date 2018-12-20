@@ -64,7 +64,7 @@ url_pdf = "https://ieeexplore.ieee.org/abstract/document/8453025"
 # Uncomment line below to enable. For multiple links, use the form [{...}, {...}, {...}].
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 # Digital Object Identifier (DOI)
-doi = "10.1109/TPWRS.2018.2868167"
+doi = ""
 
 # Does this page contain LaTeX math? (true/false)
 math = false

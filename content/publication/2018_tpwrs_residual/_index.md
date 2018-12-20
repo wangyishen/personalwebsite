@@ -8,7 +8,7 @@ draft = false
 
 #Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 
-authors = ["Y Wang", "Q Chen", "N Zhang", "\textit{Y Wang}"]
+authors = ["Y Wang", "Q Chen", "N Zhang", "Y Wang"]
 
 #Publication type.
 #Legend:
@@ -88,7 +88,7 @@ url_pdf = "https://ieeexplore.ieee.org/abstract/document/8453025"
 doi = "10.1109/TPWRS.2018.2868167"
 
 #Does this page contain LaTeX math? (true/false)
-math = true
+math = false
 
 #Featured image
 #To use, add an image named featured.jpg/png to your page's folder.

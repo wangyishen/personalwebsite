@@ -1,11 +1,11 @@
 +++
 
-title = "Scalable Planning for Energy Storage in Energy and Reserve Markets"
-date = 2017-11-01T00:00:00
+title = "Look-Ahead Bidding Strategy for Energy Storage"
+date = 2017-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Bolun Xu", "__**Yishen Wang**__", "Yury Dvorkin", "Ricardo Fernández-Blanco", "Cesar Silva-Monroy", "Jean-Paul Watson", "Daniel Kirschen"]
+authors = ["__**Yishen Wang**__", "Yury Dvorkin", "Ricardo Fernández-Blanco", "Bolun Xu", "Ting Qiu", "Daniel Kirschen"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["Bolun Xu", "__**Yishen Wang**__", "Yury Dvorkin", "Ricardo Fernánde
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Power Systems*, vol. 32, no. 6, pp. 4515 - 4527, Nov. 2018."
-publication_short = "In *TPWRS*"
+publication = "*IEEE Transactions on Sustainable Energy*, vol. 8, no. 3, pp. 1106 - 1117, July. 2017."
+publication_short = "In *TSTE*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/7879307"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/7828161"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""

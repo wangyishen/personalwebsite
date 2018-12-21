@@ -1,11 +1,11 @@
 +++
 
-title = "Scalable Planning for Energy Storage in Energy and Reserve Markets"
-date = 2017-11-01T00:00:00
+title = "Scenario Reduction With Submodular Optimization"
+date = 2017-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Bolun Xu", "__**Yishen Wang**__", "Yury Dvorkin", "Ricardo Fernández-Blanco", "Cesar Silva-Monroy", "Jean-Paul Watson", "Daniel Kirschen"]
+authors = ["__**Yishen Wang**__", "Yuzong Liu", "Daniel Kirschen"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = ["Bolun Xu", "__**Yishen Wang**__", "Yury Dvorkin", "Ricardo Fernánde
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Power Systems*, vol. 32, no. 6, pp. 4515 - 4527, Nov. 2018."
+publication = "*IEEE Transactions on Power Systems*, vol. 32, no. 3, pp. 2479 - 2480, May 2017."
 publication_short = "In *TPWRS*"
 
 # Abstract and optional shortened version.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/7879307"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/7553553"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""

@@ -19,8 +19,8 @@ authors = ["Bolun Xu", "__**Yishen Wang**__", "Yury Dvorkin", "Ricardo Fernánde
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Power Systems*, vol. 32, no. 6, pp. 4515 - 4527, Nov. 2018."
-publication_short = "In *TPWRS*"
+publication = "*IEEE Transactions on Power Systems*, vol. 32, no. 6, pp. 4515 - 4527, Nov. 2017."
+publication_short = "*IEEE Transactions on Power Systems*, vol. 32, no. 6, pp. 4515 - 4527, Nov. 2017."
 
 # Abstract and optional shortened version.
 abstract = ""

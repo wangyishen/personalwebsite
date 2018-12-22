@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Sustainable Energy*, vol. 8, no. 3, pp. 1106 - 1117, July. 2017."
-publication_short = "In *TSTE*"
+publication_short = "*IEEE Transactions on Sustainable Energy*, vol. 8, no. 3, pp. 1106 - 1117, July. 2017."
 
 # Abstract and optional shortened version.
 abstract = ""

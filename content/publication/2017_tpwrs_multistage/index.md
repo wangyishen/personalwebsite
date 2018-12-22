@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Power Systems*, vol. 32, no. 1, pp. 643 - 651, Jan. 2017."
-publication_short = "In *TPWRS*"
+publication_short = "*IEEE Transactions on Power Systems*, vol. 32, no. 1, pp. 643 - 651, Jan. 2017."
 
 # Abstract and optional shortened version.
 abstract = ""

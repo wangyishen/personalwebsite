@@ -21,7 +21,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Applied Energy*, vol. 221, no. 6, pp. 348 - 357, July 2018."
-publication_short = "*APEN*"
+publication_short = "*Applied Energy*, vol. 221, no. 6, pp. 348 - 357, July 2018."
 
 # Abstract and optional shortened version.
 abstract = ""

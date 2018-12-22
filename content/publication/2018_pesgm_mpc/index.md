@@ -21,7 +21,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE PES General Meeting*, Portland, OR, August 2018."
-publication_short = "*PESGM*"
+publication_short = "*IEEE PES General Meeting*, Portland, OR, August 2018."
 
 # Abstract and optional shortened version.
 abstract = ""

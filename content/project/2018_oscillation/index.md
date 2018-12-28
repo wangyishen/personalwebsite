@@ -44,4 +44,5 @@ url_code = ""
   focal_point = ""
 +++
 Sponsored by SGCC Science and Technology Program
-2018/07 - 2020/12
+
+2018.07 - 2020.12

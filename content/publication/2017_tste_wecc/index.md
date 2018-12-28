@@ -23,7 +23,7 @@ publication = "*IEEE Transactions on Sustainable Energy*, vol. 8, no. 2, pp. 733
 publication_short = "*IEEE Transactions on Sustainable Energy*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "The large-scale integration of a grid-scale energy storage and the increasing penetration of renewable resources motivate the development of techniques for determining the optimal ratings and locations of storage devices. This paper proposes a method for identifying the sites where energy storage systems should be located to perform spatio-temporal energy arbitrage most effectively and the optimal size of these systems. This method takes a centralized perspective where the objective is to minimize the sum of the expected operating cost and the investment cost of energy storage. It has been tested on a realistic 240-bus 448-line model of the Western Electricity Coordinating Council (WECC) interconnection. The influence on the results of the following parameters is analyzed: Maximum number of storage locations, maximum size of storage systems, capital cost of deploying storage, value assigned to spillage of renewable energy, marginal cost of conventional generation, and renewable generation capacity. These numerical results are used to characterize the benefits that energy storage can provide in prospective large-scale power systems with renewable generation."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

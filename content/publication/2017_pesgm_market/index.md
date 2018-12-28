@@ -19,11 +19,11 @@ authors = ["Jesus E. Contereras-Ocaña", "__**Yishen Wang**__", "Miguel A. Orteg
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE PES General Meeting*, Chicago, IL, July 2017"
+publication = "*IEEE PES General Meeting*, Chicago, IL, July 2017."
 publication_short = "*IEEE PESGM*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "As energy storage systems (ESSs) become economically competitive, it is natural to expect significant increases in deployments in the near future. Consequently, these systems will form a nontrivial part of the energy market and may exhibit strategic actions as ESS owners strive to maximize their profits. In this work we study the impact of strategic bidding of ESSs on the rest of the power system players and propose a non-uniform pricing scheme designed to mitigate adverse impacts. We show that while strategic bids increase the ESS's profits, it has negative impacts on the social welfare and mixed impacts on other players. We also show that the proposed pricing scheme incentivizes the ESSs to behave in a socially optimal manner and allows for profit regulation and welfare distribution among the players."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

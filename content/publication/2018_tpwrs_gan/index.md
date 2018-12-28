@@ -23,7 +23,7 @@ publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 3, pp. 3265-32
 publication_short = "*IEEE Transactions on Power Systems*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Scenario generation is an important step in the operation and planning of power systems with high renewable penetrations. In this work, we proposed a data-driven approach for scenario generation using generative adversarial networks, which is based on two interconnected deep neural networks. Compared with existing methods based on probabilistic models that are often hard to scale or sample from, our method is data-driven, and captures renewable energy production patterns in both temporal and spatial dimensions for a large number of correlated resources. For validation, we use wind and solar times-series data from NREL integration data sets. We demonstrate that the proposed method is able to generate realistic wind and photovoltaic power profiles with full diversity of behaviors. We also illustrate how to generate scenarios based on different conditions of interest by using labeled data during training. For example, scenarios can be conditioned on weather events (e.g., high wind day, intense ramp events, or large forecasts errors) or time of the year (e.g., solar generation for a day in July). Because of the feedforward nature of the neural networks, scenarios can be generated extremely efficiently without sophisticated sampling techniques."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

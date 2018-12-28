@@ -6,7 +6,7 @@ title = "AI based Oscillation Detection and Control"
 date = 2018-12-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "2018/07 - 2020/12"
+summary = "2018.07 - 2020.12"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

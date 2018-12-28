@@ -51,7 +51,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/7514051"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/1602.08517"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

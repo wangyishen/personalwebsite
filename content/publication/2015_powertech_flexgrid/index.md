@@ -51,7 +51,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/7232488"
-url_preprint = ""
+url_preprint = "https://www.merl.com/publications/docs/TR2015-082.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

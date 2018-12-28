@@ -14,7 +14,8 @@ weight = 5
     "Energy Storage",
     "PMU Data Analytics",
     "Load Modeling",
-    "Optimization"
+    "Optimization",
+    "Machine Learning",
   ]
 
 # List your qualifications (such as academic degrees).

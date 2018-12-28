@@ -51,7 +51,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/6939548"
-url_preprint = ""
+url_preprint = "https://labs.ece.uw.edu/real/Library/Papers/effect_of_time_resolution_on_uc.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

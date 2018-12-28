@@ -6,7 +6,7 @@ title = "PMU and Machine Learning Based Load Modeling System Development and App
 date = 2018-12-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "2017/07 - 2019/12"
+summary = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,3 +44,4 @@ url_code = ""
   focal_point = ""
 +++
 Sponsored by SGCC Science and Technology Program
+2017/07 - 2019/12

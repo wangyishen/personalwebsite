@@ -20,8 +20,8 @@ authors = ["Zhehan Yi", "Abdulrahman Babqi", "__**Yishen Wang**__", "Di Shi", "A
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE PES General Meeting*, Portland, OR, August 2018."
-publication_short = "*IEEE PES General Meeting*, Portland, OR, August 2018."
+publication = "*IEEE PES General Meeting*, Portland, OR, Aug."
+publication_short = "*IEEE PES General Meeting*, Portland, OR, Aug."
 
 # Abstract and optional shortened version.
 abstract = ""

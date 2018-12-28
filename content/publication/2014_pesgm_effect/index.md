@@ -23,7 +23,7 @@ publication = "*IEEE PES General Meeting*, National Harbor, MD, USA, July 2014."
 publication_short = "*IEEE PESGM*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "The increasing share of wind power in power systems requires changes in the operating procedures. Day-ahead scheduling no longer has to fit only with slow and easily predictable changes in load, but also with more abrupt changes in wind power. Procedures for dealing with wind uncertainty, such as stochastic, robust, and interval unit commitment algorithms, typically assume a one-hour resolution. Since wind generation can change significantly within an hour, shorter optimization intervals might be required to adequately reflect this uncertainty. This paper compares the stochastic, interval and robust unit commitment formulations with resolutions of 1 hour and 15 minutes. The schedules produced by these various algorithms are compared using a Monte Carlo simulation procedure on a modified version of the 24-bus IEEE-RTS."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

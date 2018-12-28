@@ -52,7 +52,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/7930419"
-#url_preprint = ""
+#url_preprint = "https://www.researchgate.net/profile/Yishen_Wang/publication/317043124_Co-planning_of_Investments_in_Transmission_and_Merchant_Energy_Storage/links/5aa33178a6fdccd544b87a62/Co-planning-of-Investments-in-Transmission-and-Merchant-Energy-Storage.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

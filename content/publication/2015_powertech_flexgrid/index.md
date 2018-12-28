@@ -19,11 +19,11 @@ authors = ["Hongbo Sun", "__**Yishen Wang**__", "Daniel Nikovski", "Jinyun Zhang
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Eindhoven PowerTech*, Eindhoven, Netherlands, June 2015"
+publication = "*IEEE Eindhoven PowerTech*, Eindhoven, Netherlands, June 2015."
 publication_short = "*IEEE Eindhoven PowerTech*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "This paper proposes a new configuration of distribution system, Flex-Grid that dynamically and adaptively re-configures in real-time to maximally utilize the renewables, improve energy efficiency, reliability and power quality, particularly if the system includes distributed generations and energy storages. A multi-objective optimal scheduling method is provided to partition the system into self-sufficient sections through optimally combination of adjacent basic switching sections. The method uses two storage based transient security indices, storage compensation power margin and storage compensation energy margin to evaluate the transient stability margin of distribution system when subject to large unexpected load deviations. Numerical results on modified IEEE 123-node distribution test system are given to demonstrate the effectiveness of the proposed system."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

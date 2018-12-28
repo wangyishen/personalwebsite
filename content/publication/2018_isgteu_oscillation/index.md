@@ -20,8 +20,8 @@ authors = ["Zhe Yu", "Di Shi", "Haifeng Li", "__**Yishen Wang**__", "Zhehan Yi",
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE ISGT Europe*, Sarajevo, Bosnia and Herzegovina, October 2018."
-publication_short = "*IEEE ISGT Europe*, Sarajevo, Bosnia and Herzegovina, October 2018."
+publication = "*IEEE ISGT Europe*, Sarajevo, Bosnia and Herzegovina, Oct."
+publication_short = "*IEEE ISGT Europe*, Sarajevo, Bosnia and Herzegovina, Oct."
 
 # Abstract and optional shortened version.
 abstract = ""

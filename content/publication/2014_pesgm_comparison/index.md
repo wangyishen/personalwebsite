@@ -23,7 +23,7 @@ publication = "*IEEE PES General Meeting*, National Harbor, MD, USA, July 2014."
 publication_short = "*IEEE PESGM*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "A number of scenario reduction techniques have been proposed to make possible the practical implementation of stochastic unit commitment formulations. These scenario-reduction techniques aggregate similar scenarios based on their metrics, such as their probability, hourly magnitudes, or the cost resulting from each scenario. This paper compares these different scenario reduction techniques in terms of the resulting operating cost and the amount of time required to complete computation of the stochastic UC. This comparison is based on Monte Carlo simulations of the resulting generation schedules for a modified version of the 24-bus IEEE-RTS."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

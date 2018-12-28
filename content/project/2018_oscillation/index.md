@@ -3,7 +3,7 @@
 title = "AI based Oscillation Detection and Control"
 
 # Date this page was created.
-date = 2018-12-28T00:00:00
+date = 2018-12-26T00:00:00
 
 # Project summary to display on homepage.
 summary = "GEIRINA"

@@ -19,7 +19,7 @@ authors = ["Jesus E. Contereras-Ocaña", "__**Yishen Wang**__", "Miguel A. Orteg
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE PES General Meeting*, Chicago, IL, July 2017."
+publication = "*IEEE PES General Meeting*, Chicago, IL, USA, July 2017."
 publication_short = "*IEEE PESGM*"
 
 # Abstract and optional shortened version.

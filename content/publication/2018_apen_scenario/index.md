@@ -20,11 +20,11 @@ authors = ["Chenghui Tang", "__**Yishen Wang**__", "Jian Xu", "Yuanzhang Sun", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Applied Energy*, vol. 221, no. 6, pp. 348 - 357, July"
-publication_short = "*Applied Energy*, vol. 221, no. 6, pp. 348 - 357, July"
+publication = "*Applied Energy*, vol. 221, no. 6, pp. 348 - 357, July 2018."
+publication_short = "*Applied Energy*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Consideration of the spatial and temporal correlations of multiple renewable power plants is critical to the efficient operation of power systems with high amounts of renewable power integration. However, existing methods either assumes that each plant behaves independently or require high computational complexity to capture the joint behavior of the plants. We propose an efficient dynamic scenario generation method based on Gibbs sampling to overcome these challenges. Firstly, the generated renewable power scenarios are drawn from the jointly distribution that accurately captures statistical behaviors in the historical data of multiple renewable power plants. Secondly, the sampling complexity only grows linearly with the number of renewable power plants, making our approach applicable to large systems. Based on this sampling technique, we propose a distribution-based model and a scenario-based models for the economic dispatch problem and show when they should be used based on the desired accuracy and available computational resources. Through a comprehensive case study, we show that compared with existing methods, the proposed approaches are more consistent with actual renewable power generation observed in practice, and can lower the operation cost while maintaining appropriate risk levels."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

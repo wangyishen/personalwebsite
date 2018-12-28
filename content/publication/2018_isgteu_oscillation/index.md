@@ -20,11 +20,11 @@ authors = ["Zhe Yu", "Di Shi", "Haifeng Li", "__**Yishen Wang**__", "Zhehan Yi",
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE ISGT Europe*, Sarajevo, Bosnia and Herzegovina, Oct."
-publication_short = "*IEEE ISGT Europe*, Sarajevo, Bosnia and Herzegovina, Oct."
+publication = "*IEEE ISGT Europe*, Sarajevo, Bosnia and Herzegovina, Oct. 2018."
+publication_short = "*IEEE ISGT Europe*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Hilbert-Huang transform (HHT) has drawn significant attention in power system analysis due to its capability to deal with dynamic signal and provide instantaneous characteristics such as frequency, damping, and amplitudes. However, its short-comings, including mode mixing and end effects, are as significant as its advantages. A preliminary result of an Extended Kalman Filter (EKF) method to enhance HHT and hopefully to overcome these disadvantages is presented in this paper. The proposal first removes dynamic DC components in signals using empirical mode decomposition. Then an EKF model is applied to extract instant coefficients. Numerical results using simulated and real-world low-frequency oscillation data suggest the proposal can help to overcome the mode mixing and end effects with a properly chosen number of modes."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

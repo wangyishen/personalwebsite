@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Eindhoven PowerTech*, Eindhoven, Netherlands, June 2015"
-publication_short = "*IEEE Eindhoven PowerTech*, Eindhoven, Netherlands, June 2015"
+publication_short = "*IEEE Eindhoven PowerTech*"
 
 # Abstract and optional shortened version.
 abstract = ""

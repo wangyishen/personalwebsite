@@ -3,7 +3,7 @@
 title = "Energy Positioning: Control and Economics"
 
 # Date this page was created.
-date = 2018-12-28T00:00:00
+date = 2018-12-20T00:00:00
 
 # Project summary to display on homepage.
 summary = "University of Washington"
@@ -45,6 +45,9 @@ url_code = ""
 +++
 Sponsored by DOE ARPA-E GENI Program
 
-A Colloboration project with University of Michigan
-
 2012.03 - 2015.05
+
+PI: Prof. Daniel Kirschen, University of Washington
+
+Co-PI: Prof. Ian Hiskens, University of Michigan
+

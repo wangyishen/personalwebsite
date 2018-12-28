@@ -20,11 +20,11 @@ authors = ["__**Yishen Wang**__", "Zhehan Yi", "Di Shi", "Zhe Yu", "Bibin Huang"
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE PES General Meeting*, Portland, OR, Aug."
-publication_short = "*IEEE PES General Meeting*, Portland, OR, Aug."
+publication = "*IEEE PES General Meeting*, Portland, OR, USA, Aug. 2018."
+publication_short = "*IEEE PES General Meeting*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "As microgrids have advanced from early prototypes to relatively mature technologies, converting data center integrated commercial buildings to microgrids provides economic, reliability and resiliency enhancements for the building owners. Thus, microgrid design and economically sizing distributed energy resources (DER) are becoming more demanding to gain widespread microgrids commercial viability. In this paper, an optimal DER sizing formulation for a hybrid AC/DC microgrid configuration has been proposed to leverage all benefits that AC or DC microgrid could solely contribute. Energy storage (ES), photovoltaics (PV) and power electronics devices are coordinately sized for economic grid-connected and reliable islanded operations. Time-of-use (TOU) energy usages charges and peak demand charges are explicitly modeled to achieve maximum level of cost savings. Numerical results obtained from a real commercial building load demonstrate the benefits of the proposed approach and the importance of jointly sizing DER for the grid-connected and islanded modes."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

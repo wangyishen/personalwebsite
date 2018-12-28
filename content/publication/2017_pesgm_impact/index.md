@@ -19,11 +19,11 @@ authors = ["__**Yishen Wang**__", "Yury Dvorkin", "Ricardo Fernandez-Blanco", "B
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE PES General Meeting*, Chicago, IL, July 2017"
+publication = "*IEEE PES General Meeting*, Chicago, IL, July 2017."
 publication_short = "*IEEE PESGM*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Reduced installation and operating costs give energy storage systems an opportunity to participate actively and profitably in electricity markets. In addition to providing ancillary services, energy storage systems can also arbitrage temporal price differences. Congestion in the transmission network often accentuates these price differences and will under certain circumstances enhance the profitability of arbitrage. On the other hand, congestion may also limit the ability of a given storage device to take advantage of arbitrage opportunities. This paper analyzes how transmission congestion affects the profitability of arbitrage by storage devices in markets with perfect and imperfect competition. Imperfect competition is modeled using a bilevel optimization where the offers and bids submitted by the storage devices can alter the market outcome. Price-taker and price-maker assumptions are also investigated through market price duration curves. This analysis is based on simulating an entire year of market operation on the IEEE Reliability Test system."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE International Energy Conference (ENERGYCON)*, Leuven, Belgium, April 2016"
-publication_short = "*IEEE ENERGYCON*, Leuven, Belgium, April 2016"
+publication_short = "*IEEE ENERGYCON*"
 
 # Abstract and optional shortened version.
 abstract = ""

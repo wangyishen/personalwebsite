@@ -19,11 +19,11 @@ authors = ["Ting Qiu", "Bolun Xu", "__**Yishen Wang**__", "Yury Dvorkin", "Danie
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Power Systems*, vol. 32, no. 1, pp. 643 - 651, Jan. 2017"
+publication = "*IEEE Transactions on Power Systems*, vol. 32, no. 1, pp. 643 - 651, Jan. 2017."
 publication_short = "*IEEE Transactions on Power Systems*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Transmission expansion and energy storage increase the flexibility of power systems and, hence, their ability to deal with uncertainty. Transmission lines have a longer lifetime and a more predictable performance than energy storage, but they require a very large initial investment. While battery energy storage systems (BESS) can be built faster and their capacity can be increased gradually, their useful life is shorter because their energy capacity degrades with time and each charge and discharge cycle. Additional factors, such as the expected profiles of load and renewable generation significantly affect planning decisions. This paper proposes a stochastic, multistage, coplanning model of transmission expansion, and BESS that considers both the delays in transmission expansion and the degradation in storage capacity under different renewable generation and load increase scenarios. The proposed model is tested using a modified version of the IEEE-RTS. Sensitivity analyses are performed to assess how factors such as the planning method, the storage chemistry characteristics, the current transmission capacity, and the uncertainty on future renewable generation and load profiles affect the investment decisions."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

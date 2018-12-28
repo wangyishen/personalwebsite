@@ -51,8 +51,8 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1803.00660"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "https://arxiv.org/abs/1803.00660"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

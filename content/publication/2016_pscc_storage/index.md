@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Power Systems Computation Conference (PSCC)*, Genoa, Italy, June 2016."
-publication_short = "*IEEE Power Systems Computation Conference (PSCC)*, Genoa, Italy, June 2016."
+publication_short = "*IEEE PSCC*"
 
 # Abstract and optional shortened version.
 abstract = ""

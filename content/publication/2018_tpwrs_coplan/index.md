@@ -20,8 +20,8 @@ authors = ["Yury Dvorkin", "Ricardo Fernández-Blanco", "__**Yishen Wang**__", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 1, pp. 245 - 256, Jan. 2018."
-publication_short = "*IEEE Transactions on Power Systems*, vol. 33, no. 1, pp. 245 - 256, Jan. 2018."
+publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 1, pp. 245 - 256, Jan."
+publication_short = "*IEEE Transactions on Power Systems*, vol. 33, no. 1, pp. 245 - 256, Jan."
 
 # Abstract and optional shortened version.
 abstract = ""

@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Power Systems*, vol. 30, no. 5, pp. 2288 - 2300, Sept. 2015"
-publication_short = "*IEEE Transactions on Power Systems*, vol. 30, no. 5, pp. 2288 - 2300, Sept. 2015"
+publication_short = "*IEEE Transactions on Power Systems*"
 
 # Abstract and optional shortened version.
 abstract = ""

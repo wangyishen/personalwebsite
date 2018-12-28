@@ -19,8 +19,8 @@ authors = ["Ricardo Fernández-Blanco", "Yury Dvorkin", "Bolun Xu", "__**Yishen 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Sustainable Energy*, vol. 8, no. 2, pp. 733 - 743, April"
-publication_short = "*IEEE Transactions on Sustainable Energy*, vol. 8, no. 2, pp. 733 - 743, April"
+publication = "*IEEE Transactions on Sustainable Energy*, vol. 8, no. 2, pp. 733 - 743, April 2017."
+publication_short = "*IEEE Transactions on Sustainable Energy*"
 
 # Abstract and optional shortened version.
 abstract = ""

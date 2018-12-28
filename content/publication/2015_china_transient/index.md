@@ -5,7 +5,7 @@ date = 2015-06-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Shen Yang-Wu", "Ke De-Ping", "Sun Yuan-Zhang", "Daniel Kirschen", "__**Yishen Wang**__", "Hu Yuan-Chao"]
+authors = ["Shen Yang-Wu", "Ke De-Ping", "Sun Yuan-Zhang", "Daniel Kirschen", "__**Wang Yi-Shen**__", "Hu Yuan-Chao"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Shen Yang-Wu", "Ke De-Ping", "Sun Yuan-Zhang", "Daniel Kirschen", "_
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Chinese Physics B*, vol. 24, no. 7, pp. 070201, 2015"
+publication = "*Chinese Physics B*, vol. 24, no. 7, pp. 070201, 2015."
 publication_short = "*Chinese Phys. B*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "A novel transient rotor current control scheme is proposed in this paper for a doubly-fed induction generator (DFIG) equipped with a superconducting magnetic energy storage (SMES) device to enhance its transient voltage and frequency support capacity during grid faults. The SMES connected to the DC-link capacitor of the DFIG is controlled to regulate the transient dc-link voltage so that the whole capacity of the grid side converter (GSC) is dedicated to injecting reactive power to the grid for the transient voltage support. However, the rotor-side converter (RSC) has different control tasks for different periods of the grid fault. Firstly, for Period I, the RSC injects the demagnetizing current to ensure the controllability of the rotor voltage. Then, since the dc stator flux degenerates rapidly in Period II, the required demagnetizing current is low in Period II and the RSC uses the spare capacity to additionally generate the reactive (priority) and active current so that the transient voltage capability is corroborated and the DFIG also positively responds to the system frequency dynamic at the earliest time. Finally, a small amount of demagnetizing current is provided after the fault clearance. Most of the RSC capacity is used to inject the active current to further support the frequency recovery of the system. Simulations are carried out on a simple power system with a wind farm. Comparisons with other commonly used control methods are performed to validate the proposed control method."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

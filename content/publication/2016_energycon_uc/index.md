@@ -19,11 +19,11 @@ authors = ["__**Yishen Wang**__", "Zhi Zhou", "Cong Liu", "Audun Botterud"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE International Energy Conference (ENERGYCON)*, Leuven, Belgium, April 2016"
+publication = "*IEEE International Energy Conference (ENERGYCON)*, Leuven, Belgium, April 2016."
 publication_short = "*IEEE ENERGYCON*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Wind power is playing an increasingly important role in electricity markets. However, it's inherent variability and uncertainty cause operational challenges and costs as more operating reserves are needed to maintain system reliability. Several operational strategies have been proposed to address these challenges, including advanced probabilistic wind forecasting techniques, dynamic operating reserves, and various unit commitment (UC) and economic dispatch (ED) strategies under uncertainty. This paper presents a consistent framework to evaluate different operational strategies in power system operations with renewable energy. We use conditional Kernel Density Estimation (KDE) for probabilistic wind power forecasting. Forecast scenarios are generated considering spatio-temporal correlations, and further reduced to lower the computational burden. Scenario-based stochastic programming with different decomposition techniques and interval optimization are tested to examine economic, reliability, and computational performance compared to deterministic UC/ED benchmarks. We present numerical results for a modified IEEE-118 bus system with realistic system load and wind data."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

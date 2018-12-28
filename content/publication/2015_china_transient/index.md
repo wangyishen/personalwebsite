@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Chinese Physics B*, vol. 24, no. 7, pp. 070201, 2015"
-publication_short = "*Chinese Phys. B*, vol. 24, no. 7, pp. 070201, 2015"
+publication_short = "*Chinese Phys. B*"
 
 # Abstract and optional shortened version.
 abstract = ""

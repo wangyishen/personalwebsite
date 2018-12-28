@@ -20,11 +20,11 @@ authors = ["Zhehan Yi", "Abdulrahman Babqi", "__**Yishen Wang**__", "Di Shi", "A
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE PES General Meeting*, Portland, OR, Aug."
-publication_short = "*IEEE PES General Meeting*, Portland, OR, Aug."
+publication = "*IEEE PES General Meeting*, Portland, OR, USA, Aug. 2018."
+publication_short = "*IEEE PES General Meeting*
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Microgrids consisting of multiple distributed energy resources (DERs) provide a promising solution to integrate renewable energies, e.g., solar photovoltaic (PV) systems. Hybrid AC/DC microgrids leverage the merits of both AC and DC power systems. In this paper, a control strategy for islanded multi-bus hybrid microgrids is proposed based on the Finite-Control-Set Model Predictive Control (FCS-MPC) technologies. The control loops are expedited by predicting the future states and determining the optimal control action before switching signals are sent. The proposed algorithm eliminates the needs of PI, PWM, and droop components, and offers 1) accurate PV maximum power point tracking (MPPT) and battery charging/discharging control, 2) DC and multiple AC bus voltage/frequency regulation, 3) a precise power sharing scheme among DERs without voltage or frequency deviation, and 4) a unified MPC design flow for hybrid microgrids. Multiple case studies are carried out, which verify the satisfactory performance of the proposed method."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

@@ -20,11 +20,11 @@ authors = ["Yury Dvorkin", "Ricardo Fernández-Blanco", "__**Yishen Wang**__", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 1, pp. 245 - 256, Jan."
-publication_short = "*IEEE Transactions on Power Systems*, vol. 33, no. 1, pp. 245 - 256, Jan."
+publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 1, pp. 245 - 256, Jan. 2018."
+publication_short = "*IEEE Transactions on Power Systems*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Suitably located energy storage systems are able to collect significant revenue through spatiotemporal arbitrage in congested transmission networks. However, transmission capacity expansion can significantly reduce or eliminate this source of revenue. Investment decisions by merchant storage operators must, therefore, account for the consequences of potential investments in transmission capacity by central planners. This paper presents a tri-level model to co-optimize merchant electrochemical storage siting and sizing with centralized transmission expansion planning. The upper level takes the merchant storage owner's perspective and aims to maximize the lifetime profits of the storage, while ensuring a given rate of return on investments. The middle level optimizes centralized decisions about transmission expansion. The lower level simulates market clearing. The proposed model is recast as a bi-level equivalent, which is solved using the column-and-constraint generation technique. A case study based on a 240-bus, 448-line testbed of the Western Electricity Coordinating Council interconnection demonstrates the usefulness of the proposed tri-level model."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

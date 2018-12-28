@@ -46,3 +46,5 @@ url_code = ""
 Sponsored by SGCC Science and Technology Program
 
 2017.07 - 2019.12
+
+PMU & System Analytics Group, GEIRI North America

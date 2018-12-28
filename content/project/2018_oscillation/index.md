@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = ""AI based Oscillation Detection and Control"
+title = "AI based Oscillation Detection and Control"
 
 # Date this page was created.
 date = 2018-12-28T00:00:00

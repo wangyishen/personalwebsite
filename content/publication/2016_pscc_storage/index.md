@@ -23,7 +23,7 @@ publication = "*IEEE Power Systems Computation Conference (PSCC)*, Genoa, Italy,
 publication_short = "*IEEE PSCC*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Managing uncertainty caused by the large-scale integration of wind power is a challenge in both the day-ahead planning and real-time operation of a power system. Increasing system flexibility is the key factor in preserving operational reliability. While distributed energy storage is a promising way to increase system flexibility, its benefits have to be optimally exploited to justify its high installation cost. Optimally operating distributed energy storage in an uncertain environment requires decisions on multiple time scales. Additionally, storage operation needs to be coordinated with the scheduling and dispatching of conventional generators. This paper proposes and demonstrates a three-level framework for coordinating day-ahead, near real-time and minute-by-minute control actions of conventional generating units and distributed energy storage. A case study illustrates the interactions between the three levels and the effectiveness of this approach both in terms of economics and operational reliability."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

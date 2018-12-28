@@ -23,7 +23,7 @@ publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 6, pp. 7327-73
 publication_short = "*IEEE Transactions on Power Systems*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Probabilistic load forecasting (PLF) has gained widespread attention in recent years because it presents more uncertainty information about the future loads. To further improve the PLF performance, this letter proposes a novel PLF method to leverage existing point load forecasts by modeling the conditional forecast residual. Specifically, the method firstly conducts point forecasting using the historical load data and related factors to obtain the point forecast. Then, this point forecast is used as an additional input feature to describe the conditional distribution of the residual on the point forecast. Finally, the point forecast and conditional distribution of the residual are integrated together to produce the final probabilistic forecast. By comparing different point forecasting and quantile regression models, comprehensive case studies obtained from a publicly available load dataset with multiple zones demonstrate the advantages of our proposed method. This letter also informatively reveals the relationship between point and probabilistic forecast accuracies."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

@@ -13,7 +13,7 @@ summary = "GEIRI North America"
 tags = ["Artificial Intelligence", "Load Modeling", "PMU"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.geirina.net/research/2"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

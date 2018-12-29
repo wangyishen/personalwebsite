@@ -51,7 +51,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/6936940"
-#url_preprint = "https://labs.ece.uw.edu/real/Library/Papers/storage_sizing.pdf"
+url_preprint = "https://labs.ece.uw.edu/real/Library/Papers/storage_sizing.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

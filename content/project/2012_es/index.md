@@ -13,7 +13,7 @@ summary = "University of Washington"
 tags = ["Energy Storage", "Optimization", "Control", "Economics", "Electricity Markets"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://arpa-e.energy.gov/?q=slick-sheet-project/renewable-energy-positioning-system"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -51,3 +51,4 @@ PI: Prof. Daniel Kirschen, University of Washington
 
 Co-PI: Prof. Ian Hiskens, University of Michigan
 
+https://arpa-e.energy.gov/?q=slick-sheet-project/renewable-energy-positioning-system

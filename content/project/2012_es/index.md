@@ -43,6 +43,7 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
 Sponsored by DOE ARPA-E GENI Program
 
 2012.03 - 2015.05
@@ -51,4 +52,4 @@ PI: Prof. Daniel Kirschen, University of Washington
 
 Co-PI: Prof. Ian Hiskens, University of Michigan
 
-https://arpa-e.energy.gov/?q=slick-sheet-project/renewable-energy-positioning-system
+#https://arpa-e.energy.gov/?q=slick-sheet-project/renewable-energy-positioning-system

@@ -27,7 +27,7 @@ abstract = "This paper proposes a new configuration of distribution system, Flex
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

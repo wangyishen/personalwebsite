@@ -27,7 +27,7 @@ abstract = "As more wind power and other renewable resources are being integrate
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

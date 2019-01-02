@@ -27,7 +27,7 @@ abstract = "As the cost of battery energy storage continues to decline, we are l
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

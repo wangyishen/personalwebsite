@@ -27,7 +27,7 @@ abstract = "The increasing share of wind power in power systems requires changes
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

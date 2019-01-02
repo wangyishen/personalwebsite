@@ -38,4 +38,4 @@ weight = 5
 
 # Biography
 
-Yishen Wang is a power system research engineer at [GEIRI North America](https://www.geirina.net/research/2). His research interests include power system economics, energy storage, PMU data analytics and optimization.
+Yishen Wang joins [Global Energy Interconnection Research Institute North America (GEIRI North America)](https://www.geirina.net/research/2) since 2017. His research interests include power system economics, energy storage, PMU data analytics and optimization.

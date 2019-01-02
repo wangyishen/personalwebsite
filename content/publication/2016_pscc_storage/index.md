@@ -27,7 +27,7 @@ abstract = "Managing uncertainty caused by the large-scale integration of wind p
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

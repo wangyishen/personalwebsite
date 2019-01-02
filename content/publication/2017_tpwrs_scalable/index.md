@@ -28,7 +28,7 @@ abstract = "Energy storage can facilitate the integration of renewable energy re
 abstract_short = "Energy storage can facilitate the integration of renewable energy resources by providing arbitrage and ancillary services. Jointly optimizing energy and ancillary services in a centralized electricity market reduces the system's operating cost and enhances the profitability of energy storage systems. However, achieving these objectives requires that storage be located and sized properly. We use a bilevel formulation to optimize the location and size of energy storage systems, which perform energy arbitrage and provide regulation services."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

@@ -36,6 +36,6 @@ weight = 7
 [[feature]]
   icon = ""
   icon_pack = ""
-  name = "GAMS, AMPL, CPLEX, Gurobi"
+  name = "GAMS, AMPL, CPLEX, Gurobi, JuMP, YALMIP"
   description = ""
 +++

@@ -51,7 +51,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/8453025"
-#url_preprint = ""
+url_preprint = "https://www.researchgate.net/publication/327226084_Conditional_Residual_Modeling_for_Probabilistic_Load_Forecasting"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

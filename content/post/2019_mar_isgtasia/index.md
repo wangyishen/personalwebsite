@@ -2,7 +2,7 @@
 title = "[2019/3] Two papers to appear in 2019 IEEE ISGT ASIA"
 subtitle = ""
 
-date = 2019-2-28T00:00:00
+date = 2019-02-28T00:00:00
 lastmod = 2019-03-21T00:00:00
 draft = false
 

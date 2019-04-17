@@ -27,7 +27,7 @@ date_format = "January 2006"
   date_start = "2017-06-26"
   date_end = ""
   description = """
-  Working with Dr. Di Shi at AI & System Analytics Group on the following research topics:
+  Working with Dr. Di Shi at AI & System Analytics Group on the following topics:
   
   * Machine learing and PMU based load modeling and parameter identification
   * AI-based oscillation detection and control
@@ -72,7 +72,7 @@ date_format = "January 2006"
   date_start = "2011-09-16"
   date_end = "2017-06-15"
   description = """
-  Worked with Prof. Daniel Kirschen at Renewable Analysis Lab (REAL LAb) on on the following research topics:
+  Worked with Prof. Daniel Kirschen at Renewable Analysis Lab (REAL LAb) on the following topics:
   
   * Energy storage operation and planning in electricity markets
   * Renewable integration with stochastic unit commitment

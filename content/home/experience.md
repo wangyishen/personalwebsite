@@ -27,11 +27,13 @@ date_format = "January 2006"
   date_start = "2017-06-26"
   date_end = ""
   description = """
-  Working with Dr. Di Shi at AI & System Analytics Group on the following topics:
+  AI & System Analytics Group 
   
-  * Machine learing and PMU based load modeling and parameter identification
+  Working with Dr. Di Shi at on the following topics:
+  
+  * Machine learning and PMU based load modeling
   * AI-based oscillation detection and control
-  * Commerical hybrid AC/DC microgrid planning and operation
+  * Commercial hybrid AC/DC microgrid planning and operation
   """
 
 #[[experience]]
@@ -51,7 +53,9 @@ date_format = "January 2006"
   date_start = "2015-06-01"
   date_end = "2015-09-30"
   description = """
-  Worked with Dr. Audun Botterud, Dr. Zhi Zhou and Dr. Cong Liu at Energy Systems Division on renewable integration with stochastic unit commitment
+  Energy Systems Division
+  
+  Worked with Dr. Audun Botterud, Dr. Zhi Zhou and Dr. Cong Liu on renewable integration with stochastic unit commitment
 """
 
 [[experience]]
@@ -62,7 +66,9 @@ date_format = "January 2006"
   date_start = "2014-06-01"
   date_end = "2014-09-30"
   description = """
-  Worked with Dr. Hongbo Sun at Data Analytics Group on distribution system reconfiguration with energy storage"""
+  Data Analytics Group
+  
+  Worked with Dr. Hongbo Sun on distribution system reconfiguration with energy storage"""
 
 [[experience]]
   title = "Research Assistant"
@@ -72,7 +78,9 @@ date_format = "January 2006"
   date_start = "2011-09-16"
   date_end = "2017-06-15"
   description = """
-  Worked with Prof. Daniel Kirschen at Renewable Analysis Lab (REAL LAb) on the following topics:
+  Renewable Analysis Lab (REAL LAb) 
+  
+  Worked with Prof. Daniel Kirschen on the following topics:
   
   * Energy storage operation and planning in electricity markets
   * Renewable integration with stochastic unit commitment

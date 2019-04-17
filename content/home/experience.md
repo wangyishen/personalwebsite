@@ -21,7 +21,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Power System Research Engineer"
-  company = "PMU & System Analytics Group, GEIRI North America"
+  company = "AI & System Analytics Group, GEIRI North America"
   company_url = "https://www.geirina.net/research/2"
   location = "San Jose, CA, USA"
   date_start = "2018-06-26"

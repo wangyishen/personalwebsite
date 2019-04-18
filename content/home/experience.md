@@ -78,7 +78,7 @@ date_format = "January 2006"
   date_start = "2011-09-16"
   date_end = "2017-06-15"
   description = """
-  Renewable Analysis Lab (REAL LAb) 
+  Renewable Energy Analysis Lab (REAL LAb) 
   
   Worked with Prof. Daniel Kirschen on the following topics:
   

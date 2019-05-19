@@ -1,5 +1,5 @@
 +++
-title = "[2019/5] Our new paper, entitled \"Robust Time-Varying Synthesis Load Modeling in Distribution Networks Considering Voltage Disturbances\", has been accepted by IEEE Transactions on Power Systems"
+title = "[2019/5] Our new paper on load modeling, entitled \"Robust Time-Varying Synthesis Load Modeling in Distribution Networks Considering Voltage Disturbances\", has been accepted by IEEE Transactions on Power Systems"
 subtitle = ""
 
 date = 2019-05-11T00:00:00

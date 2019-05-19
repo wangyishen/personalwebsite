@@ -1,5 +1,5 @@
 +++
-title = "[2019/3] Two papers to appear in 2019 IEEE ISGT ASIA"
+title = "[2019/3] Two papers on load forecasting to appear in 2019 IEEE ISGT ASIA"
 subtitle = ""
 
 date = 2019-02-28T00:00:00

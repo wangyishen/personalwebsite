@@ -1,5 +1,5 @@
 +++
-title = "[2019/5] New paper accepted by IEEE Transactions on Power Systems"
+title = "[2019/5] Our new paper, entitled "Robust Time-Varying Synthesis Load Modeling in Distribution Networks Considering Voltage Disturbances", has been accepted by IEEE Transactions on Power Systems"
 subtitle = ""
 
 date = 2019-05-11T00:00:00
@@ -36,4 +36,4 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-Our paper "Robust Time-Varying Synthesis Load Modeling in Distribution Networks Considering Voltage Disturbances" has been accepted by IEEE Transactions on Power Systems. 
+Our paper "Robust Time-Varying Synthesis Load Modeling in Distribution Networks Considering Voltage Disturbances" has been accepted by IEEE Transactions on Power Systems. This is a joint work between Southern Methodist University (SMU) and GEIRINA.

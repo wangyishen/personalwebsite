@@ -36,4 +36,4 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-Our paper "Robust Time-Varying Synthesis Load Modeling in Distribution Networks Considering Voltage Disturbances" has been accepted by IEEE Transactions on Power Systems. This is a joint work between Southern Methodist University (SMU) and GEIRINA.
+Our paper "Robust Time-Varying Synthesis Load Modeling in Distribution Networks Considering Voltage Disturbances" has been accepted by IEEE Transactions on Power Systems. This is a joint work by Southern Methodist University (SMU) and GEIRINA.

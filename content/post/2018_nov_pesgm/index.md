@@ -1,5 +1,5 @@
 +++
-title = "[2019/2] Two papers to appear in 2019 IEEE PES General Meeting"
+title = "[2019/2] Two papers on load analytics to appear in 2019 IEEE PES General Meeting"
 subtitle = ""
 
 date = 2018-11-08T00:00:00

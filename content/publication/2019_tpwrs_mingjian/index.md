@@ -51,7 +51,7 @@ tags = ["Load Modeling"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/8721078"
-url_preprint = ""
+url_preprint = "https://www.researchgate.net/publication/333336637_Robust_Time-Varying_Synthesis_Load_Modeling_in_Distribution_Networks_Considering_Voltage_Disturbances"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

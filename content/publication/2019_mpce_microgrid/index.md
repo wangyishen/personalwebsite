@@ -19,7 +19,7 @@ authors = ["Kexing Lai", "__**Yishen Wang**__", "Di Shi", "Mahesh S. Illindala",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Modern Power Systems and Clean Energy*, pp. 1-12, 2019."
+publication = "*Journal of Modern Power Systems and Clean Energy*, vol. 7, no. 5, pp. 1177-1188, 2019."
 publication_short = "*MPCE*"
 
 # Abstract and optional shortened version.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://link.springer.com/article/10.1007/s40565-019-0501-1"
+url_pdf = "https://doi.org/10.1007/s40565-019-0501-1"
 url_preprint = ""
 #url_code = ""
 #url_dataset = ""

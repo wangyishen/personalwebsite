@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Journal on Selected Areas in Communications*, early access, 2019."
-publication_short = "*IEEE JSAC*"
+publication_short = "*IEEE J-SAC*"
 
 # Abstract and optional shortened version.
 abstract = "Accurate estimation of customer baseline load (CBL) is a key factor in the successful implementation of demand response (DR). CBL technologies implemented at utilities currently are primarily designed for large industrial and commercial customers. The U.S. Federal Energy Regulatory Commission (FERC) order 745 states that DR owners, including residential customers, can sell their load reduction in the wholesale market. However, since residential load is random and un-schedulable, this tends to inherently degrade the effectiveness of existing CBL technologies. In this paper, a novel SAE based CBL method for residential customers that uses the data reconstruction capability of a stacked autoencoder (SAE) is described. In the model, two SAEs are synchronously trained—one SAE generates a pseudo-load pool and the second one is used to select a pseudo-load to reconstruct a residential CBL. A support vector machine (SVM) classifier is self-trained to conduct the pseudo-load selection. The proposed strategy is validated using a real data set consisting of 328 residential customers’ smart meter readings. Benchmarks from other machine learning techniques and existing CBL methods are compared with the proposed method. Test results show that the accuracy of the residential CBL reconstruction significantly improves when compared with existing methods, such as HighXofY and exponential moving average."

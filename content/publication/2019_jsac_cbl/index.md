@@ -50,7 +50,7 @@ slides = ""
 tags = ["Load Modeling"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8892548"
 url_preprint = ""
 #url_code = ""
 #url_dataset = ""

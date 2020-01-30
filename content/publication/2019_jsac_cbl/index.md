@@ -19,7 +19,7 @@ authors = ["Xinan Wang", "__**Yishen Wang**__", "Jianhui Wang", "Di Shi"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Journal on Selected Areas in Communications*, early access, 2019."
+publication = "*IEEE Journal on Selected Areas in Communications*, vol. 38, no. 1, pp. 61-70, Jan. 2020."
 publication_short = "*IEEE J-SAC*"
 
 # Abstract and optional shortened version.
@@ -51,7 +51,7 @@ tags = ["Load Modeling"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/8892548"
-url_preprint = ""
+url_preprint = "https://www.researchgate.net/publication/337065622_Residential_Customer_Baseline_Load_Estimation_Using_Stacked_Autoencoder_with_Pseudo-load_Selection"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

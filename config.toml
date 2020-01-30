@@ -282,10 +282,10 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Yishen_Wang"
     
-   [[params.social]]
-    icon = "orcid"
-    icon_pack = "fab"
-    link = "https://orcid.org/0000-0002-1223-3755"
+   #[[params.social]]
+    #icon = "orcid"
+    #icon_pack = "fab"
+    #link = "https://orcid.org/0000-0002-1223-3755"
 
   #[[params.social]]
   #  icon = "github"

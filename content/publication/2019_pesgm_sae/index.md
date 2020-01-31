@@ -52,7 +52,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8973624"
 url_preprint = "https://arxiv.org/abs/1902.08167"
 #url_code = ""
 #url_dataset = ""

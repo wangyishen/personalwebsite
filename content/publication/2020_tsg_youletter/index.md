@@ -1,6 +1,6 @@
 +++
 
-title = "Residential Customer Baseline Load Estimation Using Stacked Autoencoder with Pseudo-load Selection"
+title = "Global Sensitivity Analysis in Load Modeling via Low-rank Tensor"
 date = 2020-03-05T00:00:00
 draft = false
 

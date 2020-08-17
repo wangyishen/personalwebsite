@@ -1,7 +1,7 @@
 +++
 
 title = "Mathematical representation of the WECC composite load model"
-date = 2019-09-18T00:00:00
+date = 2020-08-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
@@ -19,7 +19,7 @@ authors = ["Zixiao Ma", "Zhaoyu Wang", "__**Yishen Wang**__", "Ruisheng Diao", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Modern Power Systems and Clean Energy*, pp. 1-10, 2019."
+publication = "*Journal of Modern Power Systems and Clean Energy*, pp. 1-10, 2020."
 publication_short = "*MPCE*"
 
 # Abstract and optional shortened version.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-#url_pdf = "https://link.springer.com/article/10.1007/s40565-019-0501-1"
+url_pdf = "https://ieeexplore.ieee.org/document/9169984"
 url_preprint = "https://arxiv.org/abs/1902.08866"
 #url_code = ""
 #url_dataset = ""

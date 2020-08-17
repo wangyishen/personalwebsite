@@ -20,11 +20,12 @@ authors = ["Xinan Wang", "__**Yishen Wang**__", "Di Shi", "Jianhui Wang", "Siqi 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE International Conference on Control \& Automation (ICCA 2020)*, Oct. 2020."
+publication = "*IEEE International Conference on Control & Automation (ICCA 2020)*, Oct. 2020."
 publication_short = "*IEEE ICCA*"
 
 # Abstract and optional shortened version.
 abstract = "Power transfer limits or transfer capability (TC) directly relate to the system operation and control as well as electricity markets. As a consequence, their assessment has to comply with static constraints, such as line thermal limits, and dynamic constraints, such as transient stability limits, voltage stability limits and small-signal stability limits. Since the load dynamics have substantial impacts on power system transient stability, load models are one critical factor that affects the power transfer limits. Currently, multiple load models have been proposed and adopted in the industry and academia, including the ZIP model, ZIP plus induction motor composite model (ZIP+ IM) and WECC composite load model (WECC CLM). Each of them has its unique advantages, but their impacts on the power transfer limits are not yet adequately addressed. One existing challenge is fitting the high-order nonlinear models such as WECC CLM. In this study, we innovatively adopt double deep Q-learning Network (DDQN) agent as a general load modeling tool in the dynamic assessment procedure and fit the same transient field measurements into different load models. A comprehensive evaluation is then conducted to quantify the load models' impacts on the power transfer limits. The simulation environment is the IEEE-39 bus system constructed in Transient Security Assessment Tool (TSAT)."
+
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -36,7 +37,7 @@ selected = false
 # E.g. projects = ["deep-learning"] references
 # content/project/deep-learning/index.md.
 # Otherwise, set projects = [].
-projects = []
+projects = ["2017_load_modeling"]
 
 # Slides (optional).
 # Associate this publication with Markdown slides.

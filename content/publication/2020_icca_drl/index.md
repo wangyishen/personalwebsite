@@ -2,7 +2,7 @@
 +++
 
 title = "Evaluating Load Models and Their Impacts on Power Transfer Limits"
-date = 2020-10-16T00:00:00
+date = 2020-08-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
@@ -20,7 +20,7 @@ authors = ["Xinan Wang", "__**Yishen Wang**__", "Di Shi", "Jianhui Wang", "Siqi 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE International Conference on Control & Automation (ICCA 2020)*, Oct. 2020."
+publication = "*IEEE International Conference on Control \& Automation (ICCA 2020)*, Oct. 2020."
 publication_short = "*IEEE ICCA*"
 
 # Abstract and optional shortened version.

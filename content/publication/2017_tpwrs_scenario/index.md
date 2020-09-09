@@ -28,7 +28,7 @@ abstract = "Stochastic programming methods have been proven to deal effectively 
 abstract_short = "Stochastic programming methods have been proven to deal effectively with the uncertainty and variability of renewable generation resources. However, the quality of the solution that they provide (as measured by cost and reliability metrics) depends on the accuracy and the number of scenarios used to model this uncertainty and variability. Scenario reduction techniques are used to manage the computational burden by selecting representative scenarios. The common drawback of existing scenario reduction techniques is that the number of representative scenarios is a user-defined parameter. We propose a scenario reduction algorithm based on submodular function optimization to endogenously optimize the number of scenarios as well as rank these scenarios."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

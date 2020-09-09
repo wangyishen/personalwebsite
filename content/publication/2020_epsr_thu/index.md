@@ -1,7 +1,7 @@
 +++
 
 title = "Data-Driven Low Frequency Oscillation Mode Identification and Preventive Control Strategy Based on Gradient Descent"
-date = 2020-07-25T00:00:00
+date = 2020-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].

@@ -27,7 +27,7 @@ abstract = "Scenario generation is an important step in the operation and planni
 abstract_short = "Scenario generation is an important step in the operation and planning of power systems with high renewable penetrations. In this work, we proposed a data-driven approach for scenario generation using generative adversarial networks, which is based on two interconnected deep neural networks. Compared with existing methods based on probabilistic models that are often hard to scale or sample from, our method is data-driven, and captures renewable energy production patterns in both temporal and spatial dimensions for a large number of correlated resources. We also illustrate how to generate scenarios based on different conditions of interest by using labeled data during training."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

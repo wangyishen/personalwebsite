@@ -35,7 +35,7 @@ selected = false
 # E.g. projects = ["deep-learning"] references
 # content/project/deep-learning/index.md.
 # Otherwise, set projects = [].
-projects = []
+projects = ["2012_es"]
 
 # Slides (optional).
 # Associate this publication with Markdown slides.
@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 # Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = []
+tags = ["Unit Commitment", "Uncertainty"]
 
 # Links (optional).
 url_pdf = "https://www.ferc.gov/CalendarFiles/20140624083129-T1A%20-%202%20-%20Kirschen%20Unit%20Commitment.pdf"

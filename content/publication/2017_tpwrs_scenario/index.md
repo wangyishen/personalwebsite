@@ -48,7 +48,7 @@ slides = ""
 
 # Tags (optional).
 # Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = ["Electricity Market", "Uncertainty", "Energy Storage"]
+tags = ["Electricity Market", "Uncertainty"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/7553553"

@@ -29,7 +29,7 @@ abstract = "As microgrids have advanced from early prototypes to relatively matu
 abstract_short = "As microgrids have advanced from early prototypes to relatively mature technologies, converting data center integrated commercial buildings to microgrids provides economic, reliability and resiliency enhancements for the building owners. Thus, microgrid design and economically sizing distributed energy resources (DER) are becoming more demanding to gain widespread microgrids commercial viability. In this paper, an optimal DER sizing formulation for a hybrid AC/DC microgrid configuration has been proposed to leverage all benefits that AC or DC microgrid could solely contribute."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

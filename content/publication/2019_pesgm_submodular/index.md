@@ -29,7 +29,7 @@ abstract = "Traditional load analysis is facing challenges with the new electric
 abstract_short = "Traditional load analysis is facing challenges with the new electricity usage patterns due to demand response as well as increasing deployment of distributed generations, including photovoltaics (PV), electric vehicles (EV), and energy storage systems (ESS). At the transmission system, despite of irregular load behaviors at different areas, highly aggregated load shapes still share similar characteristics. Load clustering is to discover such intrinsic patterns and provide useful information to other load applications, such as load forecasting and load modeling. This paper proposes an efficient submodular load clustering method for transmission-level load areas with robust principal component analysis."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

@@ -28,7 +28,7 @@ abstract = "As the cost of battery energy storage continues to decline, we are l
 abstract_short = "As the cost of battery energy storage continues to decline, we are likely to see the emergence of merchant energy storage operators. These entities will seek to maximize their operating profits through strategic bidding in the day-ahead electricity market. One important parameter in any storage bidding strategy is the state-of-charge at the end of the trading day. Because this final state-of-charge is the initial state-of-charge for the next trading day, it has a strong impact on the profitability of storage for this next day. This paper proposes a look-ahead technique to optimize a merchant energy storage operator's bidding strategy considering both the day-ahead and the following day."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 # Associate this publication with one or more of your projects.

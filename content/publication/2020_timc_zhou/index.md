@@ -52,7 +52,7 @@ tags = ["Load Modeling"]
 
 # Links (optional).
 url_pdf = "https://journals.sagepub.com/doi/abs/10.1177/0142331220950865"
-url_preprint = "https://www.geirina.net/assets/paper/Self-organizing\%20Probability\%20Neural\%20Network\%20Based\%20Intelligent\%20Non-Intrusive\%20Load\%20Monitoring\%20with\%20Applications\%20to\%20Low-cost\%20Residential\%20Measuring\%20Devices.pdf"
+#url_preprint = ""
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

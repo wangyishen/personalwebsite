@@ -1,5 +1,5 @@
 +++
-title = "[2020/5] Our new paper on load modeling, entitled \"Evaluating Load Models andTheir Impacts on Power Transfer Limits\", to apear in IEEE ICCA 2020."
+title = "[2020/5] Our new paper on load modeling, entitled \"Evaluating Load Models andTheir Impacts on Power Transfer Limits\", to apear in IEEE ICCA 2020"
 subtitle = ""
 
 date = 2020-05-31T00:00:00

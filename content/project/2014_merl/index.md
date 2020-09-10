@@ -3,7 +3,7 @@
 title = "Flex-Grid: A Dynamic and Adaptive Configurable Power Distribution System"
 
 # Date this page was created.
-date = 2020-09-05T00:00:00
+date = 2017-09-05T00:00:00
 
 # Project summary to display on homepage.
 summary = "Mitsubishi Electric Research Laboratories"

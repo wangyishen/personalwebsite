@@ -48,6 +48,6 @@ Sponsored by Argonne National Laboratory
 
 2015.06 - 2015.09
 
-PI: Dr. Audun Botterud, Dr. Zhi Zhou
+Supervisor: Dr. Audun Botterud, Dr. Zhi Zhou
 
 Collaborator: Dr. Cong Liu

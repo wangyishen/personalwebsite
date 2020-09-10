@@ -48,4 +48,4 @@ Sponsored by Mitsubishi Electrici Research Laboratories
 
 2014.06 - 2014.09
 
-PI: Dr. Hongbo Sun
+Supervisor: Dr. Hongbo Sun

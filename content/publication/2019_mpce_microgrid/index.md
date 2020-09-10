@@ -35,7 +35,7 @@ selected = false
 # E.g. projects = ["deep-learning"] references
 # content/project/deep-learning/index.md.
 # Otherwise, set projects = [].
-projects = []
+projects = ["2018_storage"]
 
 # Slides (optional).
 # Associate this publication with Markdown slides.
@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 # Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = []
+tags = ["Microgrid", "Resilience"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/8952838"

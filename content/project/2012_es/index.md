@@ -51,3 +51,5 @@ Sponsored by DOE ARPA-E GENI Program
 PI: Prof. Daniel Kirschen, University of Washington
 
 Co-PI: Prof. Ian Hiskens, University of Michigan
+
+Project Members at Univeristy of Washington: Hrvoje Pandzic, Ricardo Fernandez-Blanco, Yishen Wang, Yury Dvorkin, Ting Qiu, Bolun Xu

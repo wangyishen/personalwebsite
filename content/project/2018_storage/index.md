@@ -10,7 +10,7 @@ summary = "GEIRI North America"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Artificial Intelligence", "Energy Storage", "Integrated Energy System"]
+tags = ["Artificial Intelligence", "Energy Storage", "Integrated Energy System", "Microgrid"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

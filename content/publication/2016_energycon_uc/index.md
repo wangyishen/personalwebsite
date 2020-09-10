@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 # Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = []
+tags = ["2015_anl"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/7514051"

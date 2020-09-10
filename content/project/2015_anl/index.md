@@ -1,9 +1,9 @@
 +++
 # Project title.
-title = "Energy Positioning: Control and Economics"
+title = "Electricity Markets with Stochastic Wind Integration"
 
 # Date this page was created.
-date = 2019-09-05T00:00:00
+date = 2017-09-05T00:00:00
 
 # Project summary to display on homepage.
 summary = "Argonne National Laboratory"

@@ -53,18 +53,19 @@ enableGitInfo = false
 
   # Your details.
   name = "Yishen Wang"
-  role = "Senior Research Engineer"
+  role = "Principal Research Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "GEIRI North America", url = "https://www.geirina.net/research/2" } ]
+  #organizations = [ { name = "SGRI Co. Ltd.", url = "https://www.geirina.net/research/2" } ]
+  organizations = [ { name = "SGRI Co. Ltd." } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   #avatar = "yishen_photo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "yishen.wang@geirina.net"
-  address = "250 W Tasman Dr Ste 100, San Jose, California, 95134, USA"
+  email = "wangyishen@geiri.sgcc.com.cn"
+  address = "Beijing, China"
   office_hours = ""
   
   phone = ""
@@ -104,7 +105,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
+  color_theme = "default"
   # Enable users to switch between day and night mode?
   day_night = true
 

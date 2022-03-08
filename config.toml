@@ -13,7 +13,7 @@ title = "Yishen Wang"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2022"
 
 theme = "academic"
 enableEmoji = true
@@ -97,8 +97,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "40.1323"
+  longitude = "116.4637"
   zoom = 15
 
   # SITE SETUP

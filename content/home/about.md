@@ -11,9 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Power System Economics",
-    "Machine Learning and Optimization Applications in Low-carbon Power System Operation and Control",
-    "Energy Storage",
-    "Load Modeling", 
+    "Machine Learning and Optimization Applications",
+    "Renewable and Energy Storage Integration",
+    "Load Modeling",
+    "Integrated Energy Systems",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -36,4 +37,4 @@ weight = 5
 
 # Biography
 
-Yishen Wang joins [Smart Grid Research Institute Co. Ltd. (SGRI)] since 2021. His research interests include machine learning and optimization applications in power system operation and economics, specifically focused on energy storage, load modeling and emerging decabonization technologies.
+Yishen Wang joins Smart Grid Research Institute Co. Ltd. (SGRI) since 2021. His research interests include machine learning and optimization applications in low-carbon power system operation and economics, specifically focused on energy storage and renewable integration, load modeling, and integrated energy systems.

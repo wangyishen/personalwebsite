@@ -64,7 +64,7 @@ enableGitInfo = false
   avatar = "yishen_photo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "wangyishen@geiri.sgcc.com.cn"
+  email = "yishenwang@ieee.org"
   address = "Beijing, China"
   office_hours = ""
   

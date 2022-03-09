@@ -56,6 +56,18 @@ date_format = "January 2006"
   * AI-based oscillation detection and control
   * Commercial hybrid AC/DC microgrid planning and operation
   """
+[[experience]]
+  title = "Visiting Scholar"
+  company = "Stanford University"
+  company_url = "https://www.geiri.sgcc.com.cn"
+  location = "Palo Alto, CA, USA"
+  date_start = "2019-01-01"
+  date_end = "2019-10-31"
+  description = """
+  Jointly with Precourt Institute for Energy and Department of Management Science and Engineering
+  
+  Hosted by Prof. Yinyu Ye
+  """
 
 #[[experience]]
 #  title = "Postdoctoral Researcher"

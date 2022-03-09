@@ -20,16 +20,33 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Principal Research Scientist"
+  company = "SGRI"
+  company_url = "https://www.geiri.sgcc.com.cn"
+  location = "Beijing, China"
+  date_start = "2021"
+  date_end = ""
+  description = """
+  Insitute of Computing and Applications 
+  
+  As Technical Leader in the AI and Optimization Applications in Energy Systems Operation
+  """
+
+
+
+[[experience]]
   title = "Senior Research Engineer"
   company = "GEIRI North America"
-  company_url = "https://www.geirina.net/research/2"
+  #company_url = "https://www.geirina.net/research/2"
   location = "San Jose, CA, USA"
   date_start = "2017-06-26"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """
   AI & System Analytics Group 
   
-  Working with Dr. Di Shi at on the following topics:
+  Previously as Postdoctoral Researcher and Power System Research Engineer
+  
+  Working at on the following topics:
   
   * Machine learning and PMU based load modeling
   * AI-based oscillation detection and control

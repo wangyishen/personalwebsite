@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2022-03-09T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -11,11 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Power System Economics",
+    "Machine Learning and Optimization Applications in Low-carbon Power System Operation and Control",
     "Energy Storage",
-    "PMU Data Analytics",
-    "Load Modeling",
-    "Optimization",
-    "Machine Learning",
+    "Load Modeling", 
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,4 +36,4 @@ weight = 5
 
 # Biography
 
-Yishen Wang joins [Global Energy Interconnection Research Institute North America (GEIRI North America)](https://www.geirina.net/research/2) since 2017. His research interests include power system economics, energy storage, PMU data analytics and optimization.
+Yishen Wang joins [Smart Grid Research Institute Co. Ltd. (SGRI)] since 2021. His research interests include machine learning and optimization applications in power system operation and control, power system economics, energy storage, load modeling.

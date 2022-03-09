@@ -56,10 +56,11 @@ date_format = "January 2006"
   * AI-based oscillation detection and control
   * Commercial hybrid AC/DC microgrid planning and operation
   """
+  
 [[experience]]
   title = "Visiting Scholar"
   company = "Stanford University"
-  company_url = "https://www.geiri.sgcc.com.cn"
+  company_url = "https://energy.stanford.edu/"
   location = "Palo Alto, CA, USA"
   date_start = "2019-01-01"
   date_end = "2019-10-31"

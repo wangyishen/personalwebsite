@@ -29,7 +29,11 @@ date_format = "January 2006"
   description = """
   Institute of Computing and Applications 
   
-  As Technical Leader in the AI and Optimization Applications in Energy Systems Operation
+  Working as Technical Leader on the topics:
+  
+  * Smart energy systems operation
+  * Advanced power system computing
+  * AI and optimization applications
   """
 
 
@@ -46,7 +50,7 @@ date_format = "January 2006"
   
   Previously as Postdoctoral Researcher and Power System Research Engineer
   
-  Working at on the following topics:
+  Working on the following topics:
   
   * Machine learning and PMU based load modeling
   * AI-based oscillation detection and control

@@ -24,10 +24,10 @@ date_format = "January 2006"
   company = "SGRI"
   company_url = "https://www.geiri.sgcc.com.cn"
   location = "Beijing, China"
-  date_start = "2021"
+  date_start = "2021-03-01"
   date_end = ""
   description = """
-  Insitute of Computing and Applications 
+  Institute of Computing and Applications 
   
   As Technical Leader in the AI and Optimization Applications in Energy Systems Operation
   """

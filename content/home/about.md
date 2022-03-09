@@ -11,10 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Power System Economics",
-    "Machine Learning and Optimization Applications",
-    "Renewable and Energy Storage Integration",
+    "Energy Storage and Renewable Integration",
     "Load Modeling",
     "Integrated Energy Systems",
+    "AI and Optimization",
   ]
 
 # List your qualifications (such as academic degrees).

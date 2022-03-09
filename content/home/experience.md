@@ -32,8 +32,8 @@ date_format = "January 2006"
   Working as Technical Leader on the topics:
   
   * Smart energy systems operation
-  * Advanced power system computing
   * AI and optimization applications
+  * Advanced power system computing
   """
 
 

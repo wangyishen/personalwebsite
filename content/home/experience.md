@@ -21,15 +21,17 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Principal Research Scientist"
-  company = "SGRI"
+  company = "SGRI (Previously known as GEIRI)"
   company_url = "https://www.geiri.sgcc.com.cn"
   location = "Beijing, China"
-  date_start = "2021-03-01"
+  date_start = "2021-05-01"
   date_end = ""
   description = """
   Institute of Computing and Applications 
   
-  Working as Technical Leader on the topics:
+  Previously as Technical Leader
+  
+  Working on the following topics:
   
   * Smart energy systems operation
   * AI and optimization applications

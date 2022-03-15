@@ -1,5 +1,5 @@
 +++
-title = "[2021/12] Our two new papers on power system operation, entitled \"A Review of Deep Reinforcement Learning Applications in Power System Parameter Estimation\", has been accepted by 2021 PowerCon. 
+title = "[2021/12] Our two new papers on power system operation, entitled \"A Review of Deep Reinforcement Learning Applications in Power System Parameter Estimation\", has been accepted by 2021 PowerCon." 
 subtitle = ""
 
 date = 2021-12-01T00:00:00

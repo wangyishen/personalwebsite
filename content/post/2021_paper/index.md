@@ -1,5 +1,5 @@
 +++
-title = "[2021/6] Our two new papers on load modeling, entitled \"Tensor-Based Parameter Reduction of Dynamic Load Models with Variable Frequency Drive\", has been accepted by IEEE Transactions on Power Systems", and \"A Novel Spiking Deep Neural Network based Unsupervised Learning for Non-intrusive Load Monitoring in Smart Grid\" has been accepted by MPCE. 
+title = "[2021/6] Our two new papers on load modeling, entitled \"Tensor-Based Parameter Reduction of Dynamic Load Models with Variable Frequency Drive\", has been accepted by IEEE Transactions on Power Systems, and \"A Novel Spiking Deep Neural Network based Unsupervised Learning for Non-intrusive Load Monitoring in Smart Grid\" has been accepted by MPCE." 
 subtitle = ""
 
 date = 2021-07-01T00:00:00

@@ -13,17 +13,18 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 40
 
-+++ **[Granted: 4]**
++++ 
+**[Granted: 4]**
 
-P1. H. Sun, __**Y. Wang**__, "Dynamic and Adaptive Configurable Power Distribution System", US Patent 9,876.356, 2018.
+P1. H. Sun, __**Y. Wang**__, "Dynamic and Adaptive Configurable Power Distribution System", US Patent 9,876.356, issued 2018.
 
-P2. Z. Yi, __**Y. Wang**__, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids”, US Patent 10,651,654, 2020.
+P2. Z. Yi, __**Y. Wang**__, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids”, US Patent 10,651,654, issued 2020.
 
-P3. Z. Yu, __**Y. Wang**__, H. Li, C. Fu, Z. Wang, and D. Shi, "Bayesian Estimation Based Parameter Estimation for Composite Load Model,” US Patent 11,181,873, 2021.
+P3. Z. Yu, __**Y. Wang**__, H. Li, C. Fu, Z. Wang, and D. Shi, "Bayesian Estimation Based Parameter Estimation for Composite Load Model,” US Patent 11,181,873, issed 2021.
 
-P4. __**Y. Wang**__, H. Li, D. Shi, Q. Zhang, C. Xu, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent 11,264,799, 2022.
+P4. __**Y. Wang**__, H. Li, D. Shi, Q. Zhang, C. Xu, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent 11,264,799, issued 2022.
 
-+++ **[Allowed/Pending: 7]**
+**[Allowed/Pending: 7]**
 
 P5. __**Y. Wang**__, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent 62,741,408, 2018.
 

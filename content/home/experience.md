@@ -33,7 +33,7 @@ date_format = "January 2006"
   
   Working on the following topics:
   
-  * Smart energy systems operation
+  * Integrated energy systems operation
   * AI and optimization applications
   * Advanced power system computing
   """

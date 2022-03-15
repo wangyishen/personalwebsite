@@ -52,7 +52,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Yishen Wang"
+  name = "Yishen Wang (王轶申)"
   role = "Principal Research Scientist"
 
   # Organizations/Affiliations.
@@ -323,10 +323,10 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+# [[menu.main]]
+  # name = "Projects"
+  # url = "#projects"
+  # weight = 4
 
 #[[menu.main]]
 #  name = "Tutorials"

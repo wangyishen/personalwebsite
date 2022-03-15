@@ -11,7 +11,7 @@ title = "Patents"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 40
 
 +++ [GRANTED: 4]
 P1. H. Sun, __**Y. Wang**__, "Dynamic and Adaptive Configurable Power Distribution System", US Patent 9/876.356, 2018.

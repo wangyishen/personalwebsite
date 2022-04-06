@@ -24,7 +24,7 @@ date_format = "January 2006"
   company = "SGRI (Previously known as GEIRI)"
   company_url = "https://www.geiri.sgcc.com.cn"
   location = "Beijing, China"
-  date_start = "2021-05-01"
+  date_start = "2021-03-01"
   date_end = ""
   description = """
   Institute of Computing and Applications 
@@ -33,7 +33,6 @@ date_format = "January 2006"
   
   Working on the following topics:
   
-  * Integrated energy systems operation
   * AI and optimization applications
   * Advanced power system computing
   """

@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Power System Economics",
-    "Energy Storage and Renewable Integration",
+    "Energy Storage",
     "Load Modeling",
-    "Integrated Energy Systems",
+    "Renewable Energy"
     "AI and Optimization",
   ]
 
@@ -37,4 +37,6 @@ weight = 5
 
 # Biography
 
-Yishen Wang joins Smart Grid Research Institute Co. Ltd. (SGRI) since 2021. His research interests include machine learning and optimization applications in low-carbon power system operation and economics, specifically focused on energy storage and renewable integration, load modeling, and integrated energy systems.
+Yishen Wang joins State Grid Smart Grid Research Institute Co. Ltd. (SGRI) since 2021. His research interests include machine learning and optimization applications in low-carbon power system operation and economics.
+
+Dr. Wang serves as the Associate Editor of IEEE Systems Journal and IET Renewable Power Generation. He was a Guest Editor of Journal of Modern Power Systems and Clean Energy.

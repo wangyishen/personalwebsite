@@ -13,7 +13,7 @@ weight = 5
     "Power System Economics",
     "Energy Storage",
     "Load Modeling",
-    "Renewable Energy"
+    "Renewable Energy",
     "AI and Optimization",
   ]
 

@@ -52,7 +52,9 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Yishen Wang \t (王轶申)"
+  name = """
+  Yishen Wang
+  (王轶申)"""
   role = "Principal Research Scientist"
 
   # Organizations/Affiliations.

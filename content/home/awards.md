@@ -22,7 +22,7 @@ weight = 38
 
 **2019, Best Track Paper of IEEE APPEEC 2019 (Title of paper: Improvement of Electromechanical Mode Identification from Ambient Data with Stochastic Subspace Method)**
 
-**2019, Publon Global Peer Review Awards for Top reviewers in Engineering (Top 1% in Field), Top reviewers in Cross-Field (Top 1% in Field), Excellent Reviewer **
+**2019, Publon Global Peer Review Awards for Top reviewers in Engineering (Top 1% in Field), Top reviewers in Cross-Field (Top 1% in Field), Excellent Reviewer**
 
 **2019, GEIRI North America Overachiever Award**
 

@@ -37,6 +37,6 @@ weight = 5
 
 # Biography
 
-Yishen Wang (王轶申) joins State Grid Smart Grid Research Institute Co. Ltd. (SGRI, previously known as GEIRI) since 2021, currently as Principal Research Scientist. His research interests include machine learning and optimization applications in low-carbon power system operation and economics.
+Yishen Wang (王轶申) joined State Grid Smart Grid Research Institute Co. Ltd. (SGRI, previously known as GEIRI) since 2021, currently as Principal Research Scientist. His research interests include machine learning and optimization applications in low-carbon power system operation and economics.
 
-Dr. Wang serves as the Associate Editor of IEEE Systems Journal and IET Renewable Power Generation. He was a Guest Editor of Journal of Modern Power Systems and Clean Energy. He is an IEEE Senior Member, CIGRE Member and CSEE Member. 
+Dr. Wang serves as the Associate Editor of IEEE Systems Journal and IET Renewable Power Generation. He was a Guest Editor of Journal of Modern Power Systems and Clean Energy. He is IEEE Senior Member, CIGRE Member, CSEE Member and CES Senior Member. 
